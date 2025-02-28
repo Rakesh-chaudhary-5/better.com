@@ -61,7 +61,7 @@ export default function AboutUs() {
     },
   ];
   return (
-    <div className="text-[#292B29]" onMouseEnter={() => setMenu("")}>
+    <div className="text-[#292B29] pb-28" onMouseEnter={() => setMenu("")}>
       <div className="w-full sm:px-10 px-4 lg:px-20  ">
         {/* section-1 */}
         <section className="w-full h-screen  items-center lg:px-20 flex justify-center">
