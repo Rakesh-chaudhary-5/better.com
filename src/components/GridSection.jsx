@@ -99,7 +99,7 @@ export default function GridSection({ gridData }) {
                 {el.title}
               </p>
               {el.text && <p className="hidden md:block">{el.text}</p>}
-              <Link to={el.id == 1 ? "/better.com/mortgage-calculator" : "#"}>
+              <Link to={el.id == 1 ? "/mortgage-calculator" : "#"}>
                 <div className=" hover:bg-green-900 hover:border-green-900 cursor-pointer border-2 border-[#A4A8A4] transition-all duration-300 mt-4 text-4xl hover:text-white text-green-900 w-12 h-12 flex justify-center rounded-full">
                   &rarr;
                 </div>

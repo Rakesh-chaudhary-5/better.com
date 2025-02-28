@@ -11,7 +11,7 @@ export const MyProvider = ({ children }) => {
       { title: "Apply now", url: "" },
       { title: "Purchase rates", url: "" },
       { title: "Affordability calculator", url: "" },
-      { title: "Mortgage calculator", url: "/better.com/mortgage-calculator" },
+      { title: "Mortgage calculator", url: "/mortgage-calculator" },
       { title: "Rent vs buy calculator ", url: "" },
       { title: "Find an agent", url: "" },
       { title: "VA loans", url: "" },

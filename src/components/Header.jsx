@@ -19,7 +19,7 @@ export default function Header() {
       </div>
       <nav className="flex items-center text-white justify-between w-full px-6  sm:px-14 py-6">
         <div className="flex gap-10 items-center">
-          <Link to={"/better.com"}>
+          <Link to={"/"}>
             <img className="text-white" src={betterLogo} alt="" />
           </Link>
 

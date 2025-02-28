@@ -130,7 +130,7 @@ export default function Home() {
             <h1 className="text-4xl md:text-6xl font-semibold text-[#292B29]">
               Find out why we’re better.
             </h1>
-            <Link to={"/better.com/about-us"}>
+            <Link to={"/about-us"}>
               <button className="my-6 bg-[#004733] hover:bg-[#017848] transition-all px-8 md:px-12 py-3 md:py-4 rounded-full text-white font-semibold">
                 See all our stories
               </button>

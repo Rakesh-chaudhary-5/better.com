@@ -10,19 +10,19 @@ import StartPage from "./components/StartPage.jsx";
 
 const router = createBrowserRouter([
   {
-    path: "/better.com",
+    path: "/",
     element: <App />,
     children: [
       {
-        path: "/better.com",
+        path: "/",
         element: <Home />,
       },
       {
-        path: "/better.com/about-us",
+        path: "/about-us",
         element: <AboutUs />,
       },
       {
-        path: "/better.com/mortgage-calculator",
+        path: "/mortgage-calculator",
         element: <Calculator />,
       },
     ],
