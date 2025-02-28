@@ -25,11 +25,11 @@ const router = createBrowserRouter([
         path: "/mortgage-calculator",
         element: <Calculator />,
       },
+      {
+        path: "/start",
+        element: <StartPage />,
+      },
     ],
-  },
-  {
-    path: "/start",
-    element: <StartPage />,
   },
 ]);
 
