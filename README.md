@@ -1,8 +1,22 @@
-# React + Vite
+# 🏡 My Website  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A multi-page website built with [React + Vite + Tailwind CSS].  
 
-Currently, two official plugins are available:
+## 🚀 Live Demo  
+🔗 [View Website url] (https://better-site-5.netlify.app/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 📌 Pages & Routes  
+
+| Page                          | URL                      | Description                                      |
+|----------------------         |---------------------     |--------------------------------------------------|
+| 🏠 **Home**                   | `/`                      | The landing page with an introduction.          |
+| ℹ️ **About Us**               | `/about-us`              | Information about the website or company.       |
+| 🏦 **Mortgage Calculator**    | `/mortgage-calculator`   | A tool to calculate mortgage payments. |
+| 🚀 **Start**                  | `/start`                 | The starting point for user interaction.        |
+
+---
+
+  
+
