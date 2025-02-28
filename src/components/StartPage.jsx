@@ -13,7 +13,7 @@ export default function StartPage() {
         <nav className="pt-10 sticky pb-8 bg-white border-b-4 top-0">
           <div className="flex justify-between relative">
             <div>
-              <Link to={"/better.com"}>
+              <Link to={"/"}>
                 <img src={betterLogo} alt="better-img" />
                 <p className="text-[#6F7672] text-xl">Mortgage</p>
               </Link>
