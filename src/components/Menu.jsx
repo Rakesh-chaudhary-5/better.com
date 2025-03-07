@@ -21,7 +21,7 @@ export default function Menu() {
   return (
     <div
       className={`bg-white z-20 top-20 text-black rounded-lg absolute ${
-        menu ? "visible" : "invisible"
+        menu ? "block" : "hidden"
       } w-[370px] `}
       style={{ left: `${menuPosition}px` }}
     >
